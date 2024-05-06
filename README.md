@@ -1,0 +1,3 @@
+A busca de dados em conjuntos é uma necessidade fundamental na ciência da computação. Este estudo destaca quatro métodos de organização e ordenação de dados: busca sequencial, busca binária, busca sequencial em
+uma lista ligada e árvore binária. O estudo aplicou dez cenários de teste aleatórios a cada algoritmo, variando de 100 mil a 1 milhão de elementos, permitindo comparações de tempo de execução, consumo de memória e número
+de comparações. Os resultados indicam a escolha em detrimento de outra entre tempo de execução e consumo de memória. Algoritmos com menor tempo de execução resultam em maior consumo de memória.
